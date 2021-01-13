@@ -19,6 +19,6 @@ print(suma(20,5))
 print(resta(55,1))
 print(multiplicacion(9,5))
 print(division(25,5))
-print(potencia(3,2))
+print(potencia(6,2))
     
 
