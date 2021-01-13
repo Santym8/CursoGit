@@ -15,10 +15,10 @@ def potencia(n1, ex):
     return str(n1**ex)
 
 
-print(suma(2,3))
-print(resta(5,1))
-print(multiplicacion(5,5))
-print(division(9,3))
-print(potencia(2,3))
+print(suma(20,5))
+print(resta(55,1))
+print(multiplicacion(9,5))
+print(division(25,5))
+print(potencia(3,2))
     
 
